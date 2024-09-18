@@ -1,3 +1,3 @@
-module github.com/hhuDeltax/hugo-blox-builder/modules/blox-core
+module github.com/hhuDelta/hugo-blox-builder/modules/blox-core
 
 go 1.15
