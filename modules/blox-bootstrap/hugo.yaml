@@ -27,8 +27,8 @@ module:
     min: '0.123.3'
     extended: true
   imports:
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-core
-    - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-seo
+    - path: github.com/hhuDelta/hugo-blox-builder/modules/blox-core
+    - path: github.com/hhuDelta/hugo-blox-builder/modules/blox-seo
   mounts:
     - source: content
       target: content
